@@ -1,5 +1,6 @@
-timeout /t 2
-start java -jar C:\SMARTCLIENT\JDAGUA-DEMO.exe
+timeout /t 3
+cd C:\SMARTCLIENT
+start java -jar JDAGUA-DEMO.exe
 
 
 
