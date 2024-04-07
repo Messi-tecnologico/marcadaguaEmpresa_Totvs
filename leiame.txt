@@ -1,4 +1,4 @@
-1 - passo colocar os arquivos (JDAGUA-DEMO.exe , printdanfe.bat , pasta lib) dentro da pasta smartclient
+1 - passo colocar os arquivos (JDAGUA-DEMO.exe , printdanfe.bat , pasta lib) dentro da pasta smartclient   --->  https://drive.google.com/drive/folders/1hysN3mntYoVJ1SKwTtU6vsYNgLQ9DsNG?usp=sharing
 2 - passo instalar o java jre-8u401-windows-x64 ou o mais atualizado
 3 - passo compilar os fontes : danfeii.prw   - atualizado
 			       aGerDanfe.prw
